@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/collisions.dir/src/main.cpp.o CMakeFiles/collisions.dir/src/particles.cpp.o -o collisions  -lsfml-system -lsfml-window -lsfml-graphics 

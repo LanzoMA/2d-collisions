@@ -1,3 +1,0 @@
-/home/lanzo/repos/cpp-programs/2d-collisions/build/CMakeFiles/collisions.dir
-/home/lanzo/repos/cpp-programs/2d-collisions/build/CMakeFiles/edit_cache.dir
-/home/lanzo/repos/cpp-programs/2d-collisions/build/CMakeFiles/rebuild_cache.dir
